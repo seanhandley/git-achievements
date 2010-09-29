@@ -6,3 +6,83 @@ ActionController::RoutingError (No route matches "/favicon.ico"):
   
 
 Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at Wed Sep 29 09:36:58 +0100 2010
+
+ActionController::RoutingError (No route matches "/favicon.ico"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at Wed Sep 29 09:38:15 +0100 2010
+
+ActionController::RoutingError (No route matches "/favicon.ico"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at Wed Sep 29 09:38:35 +0100 2010
+
+ActionController::RoutingError (No route matches "/favicon.ico"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at Wed Sep 29 09:38:53 +0100 2010
+
+ActionController::RoutingError (No route matches "/favicon.ico"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at Wed Sep 29 09:39:17 +0100 2010
+
+ActionController::RoutingError (No route matches "/favicon.ico"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at Wed Sep 29 09:39:34 +0100 2010
+
+ActionController::RoutingError (No route matches "/favicon.ico"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at Wed Sep 29 09:40:04 +0100 2010
+
+ActionController::RoutingError (No route matches "/favicon.ico"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at Wed Sep 29 09:40:46 +0100 2010
+
+ActionController::RoutingError (No route matches "/favicon.ico"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at Wed Sep 29 09:41:08 +0100 2010
+
+ActionController::RoutingError (No route matches "/favicon.ico"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at Wed Sep 29 09:41:18 +0100 2010
+
+ActionController::RoutingError (No route matches "/favicon.ico"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
